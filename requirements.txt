@@ -1,0 +1,4 @@
+yt-dlp~=2026.3.17
+aiogram~=3.28.2
+dotenv~=0.9.9
+python-dotenv~=1.2.2
