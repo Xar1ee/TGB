@@ -1,0 +1,9 @@
+2026-05-13 23:51:06,255 - aiogram.dispatcher - INFO - Start polling
+2026-05-13 23:51:06,361 - aiogram.dispatcher - INFO - Run polling for bot @Xar1eeBot id=8486364503 - 'Xar1ee'
+2026-05-13 23:51:16,926 - aiogram.event - INFO - Update id=112302184 is handled. Duration 355 ms by bot id=8486364503
+2026-05-13 23:51:54,380 - aiogram.event - INFO - Update id=112302185 is handled. Duration 9916 ms by bot id=8486364503
+2026-05-13 23:52:58,018 - aiogram.event - INFO - Update id=112302186 is handled. Duration 12302 ms by bot id=8486364503
+2026-05-14 00:04:38,278 - aiogram.dispatcher - INFO - Polling stopped
+2026-05-14 00:04:38,280 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-05-14 00:04:38,281 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8486364503)
+2026-05-14 00:04:38,546 - aiogram.dispatcher - INFO - Polling stopped for bot @Xar1eeBot id=8486364503 - 'Xar1ee'
